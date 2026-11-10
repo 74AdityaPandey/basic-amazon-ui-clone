@@ -1,0 +1,1 @@
+alert("This is the new script.js file!");
